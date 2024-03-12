@@ -23,7 +23,8 @@
   "author": "AI Protocol",
   "license": "MIT",
   "dependencies": {
-    "@lazy-sol/access-control": "github:lazy-sol/access-control",
+    "@ai-protocol/access-control": "github:AI-Protocol-Official/access-control",
+    "@ai-protocol/access-control-upgradeable": "github:AI-Protocol-Official/access-control-upgradeable",
     "@ai-protocol/ali-nft-contracts": "github:AI-Protocol-Official/ali-nft-contracts",
     "@ai-protocol/ali-token": "github:AI-Protocol-Official/ali-token",
     "@ai-protocol/intelligent-nft-contracts":"github:AI-Protocol-Official/intelligent-nft-contracts",
